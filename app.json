@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "bitcoin_app",
+    "slug": "snack-5ec2b852-0a84-4c98-8aa0-4f9dccdd721c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.webdevdias.snack5ec2b8520a844c988aa04f9dccdd721c"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
